@@ -46,4 +46,4 @@ What you should learn from this project:
 
 ## Author
 
-- **Ojok Simon Peter** - [William Osei Prempeh]
+- **William Osei Prempeh** - [William Osei Prempeh]
